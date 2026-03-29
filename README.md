@@ -18,8 +18,8 @@ This project analyzes Python as open-source software and includes Linux-based sh
 - Script 5: Manifest Generator
 
 ## How to Run
-chmod +x script1.sh
-./script1.sh
+chmod +x script1.sh.save
+./script1.sh.save
 
 ## Requirements
 - Linux (WSL/Ubuntu)
